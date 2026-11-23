@@ -1,78 +1,94 @@
-<!--@slide TripMate — make place discovery easier to return to-->
-# TripMate — make place discovery easier to return to
+<!--@slide TripMate — Final UX/UI Project-->
+# TripMate
+## Making sightseeing-place choices easier to save and revisit
 
-A focused travel-planning concept: find a sightseeing place, verify it, save it to a trip, and find it again.
-
-This project explores one clear task rather than a complete travel-booking service.
-
----
-
-<!--@slide The problem-->
-# Keeping a place choice usable
-
-Travelers may discover places while planning, but need a reliable way to verify a place and return to it later.
-
-TripMate focuses on the shortlist task: discover, verify, save, and retrieve.
+**Presenter:** Hemam Talal Almarashdi  
+**Neptun code:** WOFUKB  
+**Course project:** UX/UI
 
 ---
 
-<!--@slide Research and scope-->
+<!--@slide The problem is keeping a choice usable-->
+# The problem is keeping a choice usable
+
+Travelers may discover interesting places while preparing a trip, but need a clear way to check which place they found, save it to the right trip, and return to it later.
+
+TripMate focuses on this specific place-discovery and shortlist problem.
+
+---
+
+<!--@slide Research gave us a starting point, not a representative user model-->
 # Research gave us a starting point
 
-- The project narrowed from a broad travel-organizing idea to one observable task.
-- The current prototype demonstrates a visual click-through.
-- It does not represent a validated, full travel service.
+- An exploratory interview captured one participant's account of preparing a trip to Belgrade with a friend.
+- The participant described researching attractions online.
+- The early research informed a provisional persona and journey map.
+- A desk-based Google Maps audit helped identify opportunities around place identity, saving, and retrieval.
+
+This was an initial exploration. One interview does not represent all travelers.
 
 ---
 
-<!--@slide The core task-->
-# One complete task
+<!--@slide We narrowed the product to one complete, testable task-->
+# One focused task
 
 ```mermaid
 flowchart LR
-  A[Search places] --> B[Check place details]
-  B --> C[Choose trip]
-  C --> D[Save confirmation]
-  D --> E[Retrieve shortlist]
+  A[Search for a place] --> B[Check place details]
+  B --> C[Choose the trip]
+  C --> D[Confirm it is saved]
+  D --> E[Find it in the shortlist]
 ```
 
----
-
-<!--@slide Informal usability signal-->
-# Three students completed the available click-through
-
-- 3/3 students completed independently without facilitator help.
-- The participants named Rome, Romania, and Vienna.
-- One participant's positive overall feedback was recorded; the other two did not have separate recorded comments.
+The prototype concentrates on this task. Booking, accommodation, transport, and payments are outside its scope.
 
 ---
 
-<!--@slide Important limitations-->
-# What the trial did not validate
+<!--@slide Three students completed the main task without help-->
+# Initial usability check
 
-- Search results were fixed sample content, not live or destination-specific.
-- Task time, detailed clicks, pauses, errors, and confidence were not recorded.
-- Three students are a small, non-representative sample.
-- The trial does not prove that the design works for all travelers.
+- Three university students independently completed the available click-through.
+- The destinations they named were Rome, Romania, and Vienna.
+- All three completed the demonstrated task without facilitator help (3/3).
+- One participant's overall feedback was recorded as positive, describing the prototype as enjoyable and easy to understand.
 
----
-
-<!--@slide Design decisions-->
-# Refinements focus on clarity and recovery
-
-- Keep the place name and locality together so identity can be checked.
-- Confirm which trip received a saved place and offer a clear route to the shortlist.
-- Preserve the search query and provide explicit recovery actions for empty and error states.
-- Treat accessibility safeguards as design requirements to be tested, not as proven user outcomes.
+The other two participants did not have separate verbal feedback recorded.
 
 ---
 
-<!--@slide Takeaway and next step-->
-# Early completion is promising — deeper testing comes next
+<!--@slide We refined the interface around clarity and recovery-->
+# Design refinements
 
-TripMate demonstrates a focused place-discovery and shortlist flow. The next step is a more detailed test with destination-appropriate results and recorded observations.
+- Keep the place name and locality visible together, so users can check the place before saving.
+- Show which trip will receive the place.
+- Confirm the save and provide a direct route to the shortlist.
+- Preserve the search query in the no-results state.
+- Provide retry and back actions if saving fails.
 
-**Presenter:** Hemam Talal Almarashdi  
-**Neptun code:** WOFUKB
+These are design decisions documented in the project, not claims that every accessibility or recovery behavior has been validated with users.
+
+---
+
+<!--@slide The prototype demonstrates the whole task — with honest limits-->
+# What the prototype demonstrates
+
+- Desktop and mobile search layouts.
+- Place details and trip selection.
+- Save confirmation and shortlist retrieval.
+- No-results and save-failed recovery screens.
+- A mini UI guideline, reusable components, iteration notes, and a handoff specification.
+
+The prototype uses fixed sample content. Search is not live, and saving is simulated rather than connected to persistent application storage.
+
+---
+
+<!--@slide The strongest evidence is task completion — the next step is better observation-->
+# Takeaway
+
+TripMate presents a focused flow for finding a sightseeing place, checking it, saving it to a trip, and returning to it.
+
+The first click-through suggests that the main task is understandable to the three participants tested. The next step is a broader, more detailed usability test with destination-appropriate results and recorded task time, errors, pauses, and participant feedback.
+
+**Thank you.**
 
 [Open the Figma presentation](https://www.figma.com/design/4zkXgJJRMEAR3MY3l41qCj/Prototipe?node-id=28-202)
