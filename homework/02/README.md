@@ -1,11 +1,9 @@
 ---
-week: 06–09
+week: 02
 neptun: WOFUKB
 ---
-# Homeworks 6–9 — TripMate Design and Prototype
+# Homework 02 — Research and early analysis
 
-This folder documents the combined submission for Homeworks 6–9. Wireframes, the clickable prototype, usability-test documentation, iteration notes, and the mini UI guideline are maintained together in one Figma design file.
+This homework is part of the combined Homeworks 1–5 FigJam submission. The board is the verifiable source for the early-stage work.
 
-**Verifiable result:** [Open the TripMate Figma file — Homeworks 6–9](https://www.figma.com/design/4zkXgJJRMEAR3MY3l41qCj/Prototipe?node-id=2-2)
-
-The notes record three independent completions of the available click-through. Only one participant's separate verbal feedback was recorded. The prototype uses fixed sample search results rather than live destination-specific search.
+**Verifiable result:** [Open the relevant TripMate Figma deliverable](https://www.figma.com/board/QVCV5L3EEeAWnBXwlwdWp3/TripMate-%E2%80%93-Homework-1--Problem-Exploration?node-id=0-1)
