@@ -16,7 +16,6 @@ The project deliberately explores one complete user task rather than attempting 
 | Deliverable | Link |
 |---|---|
 | **Homeworks 1–5 — problem exploration and information architecture** | [Open the TripMate FigJam board](https://www.figma.com/board/QVCV5L3EEeAWnBXwlwdWp3/TripMate-%E2%80%93-Homework-1--Problem-Exploration?node-id=0-1) |
-| **Homework 5 — label-comprehension worksheet** | [Open the HW5 label-check section](https://www.figma.com/board/QVCV5L3EEeAWnBXwlwdWp3/TripMate-%E2%80%93-Homework-1--Problem-Exploration?node-id=33-2) |
 | **Homework 6 — low-fidelity wireframes** | [Open the HW6 wireframes](https://www.figma.com/design/4zkXgJJRMEAR3MY3l41qCj/Prototipe?node-id=2-2) |
 | **Homework 7 — first clickable prototype and informal feedback** | [Open the HW7 notes](https://www.figma.com/design/4zkXgJJRMEAR3MY3l41qCj/Prototipe?node-id=8-24) |
 | **Homework 8 — usability test, findings, and mini UI guideline** | [Open the HW8 documentation](https://www.figma.com/design/4zkXgJJRMEAR3MY3l41qCj/Prototipe?node-id=21-2) |
@@ -26,7 +25,7 @@ The project deliberately explores one complete user task rather than attempting 
 
 ## Homework files in this repository
 
-Each assignment also has its own Markdown page in the [`homeworks/` folder](https://github.com/hemamtalal/TripMate/tree/main/homeworks). These pages provide a short description and link to the corresponding Figma work. The original visual boards and prototype remain hosted in Figma.
+The [`homeworks/` folder](https://github.com/hemamtalal/TripMate/tree/main/homeworks) contains one combined page for Homeworks 1–5 (one shared FigJam link), followed by individual pages for Homeworks 6–10. The original visual boards and prototype remain hosted in Figma.
 
 ## Main user flow
 
