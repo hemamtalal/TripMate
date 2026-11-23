@@ -24,6 +24,10 @@ The project deliberately explores one complete user task rather than attempting 
 | **Homework 10 — final presentation (8 slides)** | [Open the final presentation](https://www.figma.com/design/4zkXgJJRMEAR3MY3l41qCj/Prototipe?node-id=28-202) |
 | **Course reference** | [UX/UI course book and homework guidance](https://pte-mik.github.io/info/ux-ui-en/) |
 
+## Homework files in this repository
+
+Each assignment also has its own Markdown page in the [`homeworks/` folder](https://github.com/hemamtalal/TripMate/tree/main/homeworks). These pages provide a short description and link to the corresponding Figma work. The original visual boards and prototype remain hosted in Figma.
+
 ## Main user flow
 
 1. Search for sightseeing places for the current trip.
