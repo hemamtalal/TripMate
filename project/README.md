@@ -75,7 +75,7 @@ Design and evaluate a clear, accessible first version of the following user flow
 
 ## Current status
 
-<badge>Design prototype completed</badge>
+**Status: UX/UI design prototype completed; further validation pending.**
 
 The UX/UI design work and presentation are prepared. The prototype demonstrates the intended flow with fixed sample content and simulated saving. It is not a functioning HTML/CSS/JavaScript application.
 
