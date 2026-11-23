@@ -6,7 +6,8 @@ This repository tracks my UX/UI course homework, individual project, and present
 
 ## Repository contents
 
-- `homework/` — numbered homework submissions. Homeworks 1–5 share one FigJam deliverable; Homeworks 6–9 share one Figma design file.
+- `homework/01/` — combined Homeworks 1–5 (one FigJam deliverable).
+- `homework/02/` — combined Homeworks 6–9 (one Figma design file).
 - `presentation/` — the final presentation source in PowerMD format.
 - `project/` — individual project description, timeline, and supporting documentation.
 
