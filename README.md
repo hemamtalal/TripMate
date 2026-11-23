@@ -15,17 +15,13 @@ The project deliberately explores one complete user task rather than attempting 
 
 | Deliverable | Link |
 |---|---|
-| **Homeworks 1–5 — problem exploration and information architecture** | [Open the TripMate FigJam board](https://www.figma.com/board/QVCV5L3EEeAWnBXwlwdWp3/TripMate-%E2%80%93-Homework-1--Problem-Exploration?node-id=0-1) |
-| **Homework 6 — low-fidelity wireframes** | [Open the HW6 wireframes](https://www.figma.com/design/4zkXgJJRMEAR3MY3l41qCj/Prototipe?node-id=2-2) |
-| **Homework 7 — first clickable prototype and informal feedback** | [Open the HW7 notes](https://www.figma.com/design/4zkXgJJRMEAR3MY3l41qCj/Prototipe?node-id=8-24) |
-| **Homework 8 — usability test, findings, and mini UI guideline** | [Open the HW8 documentation](https://www.figma.com/design/4zkXgJJRMEAR3MY3l41qCj/Prototipe?node-id=21-2) |
-| **Homework 9 — iteration log and design system** | [Open the HW9 documentation](https://www.figma.com/design/4zkXgJJRMEAR3MY3l41qCj/Prototipe?node-id=26-33) |
-| **Homework 10 — final presentation (8 slides)** | [Open the final presentation](https://www.figma.com/design/4zkXgJJRMEAR3MY3l41qCj/Prototipe?node-id=28-202) |
+| **Homeworks 1–5 — problem exploration and information architecture** | [Open the combined TripMate FigJam board](https://www.figma.com/board/QVCV5L3EEeAWnBXwlwdWp3/TripMate-%E2%80%93-Homework-1--Problem-Exploration?node-id=0-1) |
+| **Homeworks 6–9 — wireframes, prototype, usability testing, and design system** | [Open the combined TripMate Figma file](https://www.figma.com/design/4zkXgJJRMEAR3MY3l41qCj/Prototipe?node-id=2-2) |
+| **Homework 10 — final presentation (one separate presentation link)** | [Open the final presentation](https://www.figma.com/design/4zkXgJJRMEAR3MY3l41qCj/Prototipe?node-id=28-202) |
 | **Course reference** | [UX/UI course book and homework guidance](https://pte-mik.github.io/info/ux-ui-en/) |
-
 ## Homework files in this repository
 
-The [`homeworks/` folder](https://github.com/hemamtalal/TripMate/tree/main/homeworks) contains one combined page for Homeworks 1–5 (one shared FigJam link), followed by individual pages for Homeworks 6–10. The original visual boards and prototype remain hosted in Figma.
+The [`homeworks/` folder](https://github.com/hemamtalal/TripMate/tree/main/homeworks) contains three submission pages: one combined page for Homeworks 1–5, one combined page for Homeworks 6–9, and one separate page for the Homework 10 presentation. Each page links to its corresponding Figma deliverable.
 
 ## Main user flow
 
