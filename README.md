@@ -16,7 +16,11 @@ The project deliberately explores one complete user task rather than attempting 
 | Deliverable | Link |
 |---|---|
 | **Homeworks 1–5 — problem exploration and information architecture** | [Open the TripMate FigJam board](https://www.figma.com/board/QVCV5L3EEeAWnBXwlwdWp3/TripMate-%E2%80%93-Homework-1--Problem-Exploration?node-id=0-1) |
-| **Homeworks 6–9 — wireframes, prototype, usability work, and UI guideline** | [Open the TripMate Figma design file](https://www.figma.com/design/4zkXgJJRMEAR3MY3l41qCj/Prototipe?node-id=2-2) |
+| **Homework 5 — label-comprehension worksheet** | [Open the HW5 label-check section](https://www.figma.com/board/QVCV5L3EEeAWnBXwlwdWp3/TripMate-%E2%80%93-Homework-1--Problem-Exploration?node-id=33-2) |
+| **Homework 6 — low-fidelity wireframes** | [Open the HW6 wireframes](https://www.figma.com/design/4zkXgJJRMEAR3MY3l41qCj/Prototipe?node-id=2-2) |
+| **Homework 7 — first clickable prototype and informal feedback** | [Open the HW7 notes](https://www.figma.com/design/4zkXgJJRMEAR3MY3l41qCj/Prototipe?node-id=8-24) |
+| **Homework 8 — usability test, findings, and mini UI guideline** | [Open the HW8 documentation](https://www.figma.com/design/4zkXgJJRMEAR3MY3l41qCj/Prototipe?node-id=21-2) |
+| **Homework 9 — iteration log and design system** | [Open the HW9 documentation](https://www.figma.com/design/4zkXgJJRMEAR3MY3l41qCj/Prototipe?node-id=26-33) |
 | **Homework 10 — final presentation (8 slides)** | [Open the final presentation](https://www.figma.com/design/4zkXgJJRMEAR3MY3l41qCj/Prototipe?node-id=28-202) |
 | **Course reference** | [UX/UI course book and homework guidance](https://pte-mik.github.io/info/ux-ui-en/) |
 
@@ -28,7 +32,7 @@ The project deliberately explores one complete user task rather than attempting 
 4. Receive a clear save confirmation.
 5. Open the shortlist and retrieve the saved place.
 
-The Figma file includes desktop and mobile wireframes, the main task flow, no-results and save-error states, usability-test documentation, iteration notes, and a mini UI guideline.
+The Figma file includes desktop and mobile wireframes, the main task flow, no-results and save-error states, usability-test documentation, iteration notes, a mini UI guideline, and the final presentation.
 
 ## Usability test — recorded evidence and limitations
 
